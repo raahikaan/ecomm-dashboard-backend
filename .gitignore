@@ -1,5 +1,5 @@
 # Directories...
 node_modules
-src/db_pool/connection.js
 # Files...
+src/db_pool/connection.js
 .env
